@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myntra_clone/utilis/grid/grid_view.dart';
+import 'package:myntra_clone/utilis/grid/custom_grid_view.dart';
 
 class BrandScreen extends StatefulWidget {
   const BrandScreen({super.key});
